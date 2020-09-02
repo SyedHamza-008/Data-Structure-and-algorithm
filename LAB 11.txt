@@ -1,0 +1,4 @@
+ Integration of Excel File Generation System with Student Managment System
+- Addition of search functions in the Student Managment System along with GUI
+- Cocepts of values passing in different functions from GUI and then calling the serach related quries
+- Showing the serached record using where clause on GUI 

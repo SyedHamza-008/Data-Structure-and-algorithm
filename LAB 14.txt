@@ -1,0 +1,3 @@
+- Excel File Generation using Python libraries
+- Connection of Excel File Gereration method with GUI
+- Transferring data form database to Excel File.

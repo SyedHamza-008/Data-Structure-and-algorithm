@@ -1,0 +1,7 @@
+Database creation
+- Creation of separate class and functions for different kind of operation and queries in database
+- Seperate functions to insert and read data from database
+- Database connectivity with GUI
+- Creation of large string containing all the records fetched from database using for loops.
+- Insertion data into database from GUI using the entry widgets
+- Displying the data get from the database using the text widgets.

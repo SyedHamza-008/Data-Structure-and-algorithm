@@ -1,0 +1,5 @@
+- Advance GUI Creation
+- Creative concepts related to frames
+- Placement of widgets and objects with alignments
+- Using Messga Box
+- Savaing and reading information from databases
